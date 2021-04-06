@@ -1,6 +1,6 @@
-let userName = 'enosis';
-let age = 12;
-let isWorkingFromHome = true;
+let userName = 'enosis'; // string
+let age = 12; // number
+let isWorkingFromHome = true; // boolean
 const address = 'gulshan-1';
 
 let firstName = undefined;
