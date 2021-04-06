@@ -1,0 +1,11 @@
+.container {
+	height: 50px;
+	width: 100px;
+
+	background: orangered;
+	margin-bottom: 50px;
+}
+
+.container:nth-child(odd) {
+	background-color: aqua;
+}
